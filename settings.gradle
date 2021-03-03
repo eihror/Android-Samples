@@ -1,0 +1,2 @@
+include ':customview'
+rootProject.name = "CustomView"

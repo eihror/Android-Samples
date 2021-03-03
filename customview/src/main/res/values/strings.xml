@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">CustomView</string>
+  <string name="button_one_title">BTN 1 Title</string>
+  <string name="button_one_description">BTN 1 Description</string>
+  <string name="button_two_title">BTN 2 Title</string>
+  <string name="button_two_description">BTN 2 Description</string>
+</resources>
