@@ -1,2 +1,3 @@
+include ':tests'
 include ':customview'
-rootProject.name = "CustomView"
+rootProject.name = "Samples"
